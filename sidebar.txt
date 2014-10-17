@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[djb:home|Door43 (djb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-djb|d43-djb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-djb/archive/master.zip|d43-djb.zip]]
+
+**Recent Changes**
+{{changes>ns = djb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/djb|Ethnologue data]]
+
